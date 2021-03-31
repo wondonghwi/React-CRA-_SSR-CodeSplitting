@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-CRA_SSR-CodeSplitting/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-CRA_SSR-CodeSplitting/static/js/main.af14eb20.chunk.js",
+    "main.js.map": "/React-CRA_SSR-CodeSplitting/static/js/main.af14eb20.chunk.js.map",
+    "pages-BluePage.css": "/React-CRA_SSR-CodeSplitting/static/css/pages-BluePage.cb3dcd40.chunk.css",
+    "pages-BluePage.js": "/React-CRA_SSR-CodeSplitting/static/js/pages-BluePage.8b335b5c.chunk.js",
+    "pages-BluePage.js.map": "/React-CRA_SSR-CodeSplitting/static/js/pages-BluePage.8b335b5c.chunk.js.map",
+    "pages-RedPage.css": "/React-CRA_SSR-CodeSplitting/static/css/pages-RedPage.79c7d794.chunk.css",
+    "pages-RedPage.js": "/React-CRA_SSR-CodeSplitting/static/js/pages-RedPage.8c94f682.chunk.js",
+    "pages-RedPage.js.map": "/React-CRA_SSR-CodeSplitting/static/js/pages-RedPage.8c94f682.chunk.js.map",
+    "pages-UsersPage.js": "/React-CRA_SSR-CodeSplitting/static/js/pages-UsersPage.00559c35.chunk.js",
+    "pages-UsersPage.js.map": "/React-CRA_SSR-CodeSplitting/static/js/pages-UsersPage.00559c35.chunk.js.map",
+    "runtime-main.js": "/React-CRA_SSR-CodeSplitting/static/js/runtime-main.aa781ddd.js",
+    "runtime-main.js.map": "/React-CRA_SSR-CodeSplitting/static/js/runtime-main.aa781ddd.js.map",
+    "static/js/5.b28a0f62.chunk.js": "/React-CRA_SSR-CodeSplitting/static/js/5.b28a0f62.chunk.js",
+    "static/js/5.b28a0f62.chunk.js.map": "/React-CRA_SSR-CodeSplitting/static/js/5.b28a0f62.chunk.js.map",
+    "static/js/6.18e87317.chunk.js": "/React-CRA_SSR-CodeSplitting/static/js/6.18e87317.chunk.js",
+    "static/js/6.18e87317.chunk.js.map": "/React-CRA_SSR-CodeSplitting/static/js/6.18e87317.chunk.js.map",
+    "index.html": "/React-CRA_SSR-CodeSplitting/index.html",
+    "loadable-stats.json": "/React-CRA_SSR-CodeSplitting/loadable-stats.json",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-CRA_SSR-CodeSplitting/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/pages-BluePage.cb3dcd40.chunk.css.map": "/React-CRA_SSR-CodeSplitting/static/css/pages-BluePage.cb3dcd40.chunk.css.map",
+    "static/css/pages-RedPage.79c7d794.chunk.css.map": "/React-CRA_SSR-CodeSplitting/static/css/pages-RedPage.79c7d794.chunk.css.map",
+    "static/js/5.b28a0f62.chunk.js.LICENSE.txt": "/React-CRA_SSR-CodeSplitting/static/js/5.b28a0f62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa781ddd.js",
+    "static/js/5.b28a0f62.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.af14eb20.chunk.js"
+  ]
+}

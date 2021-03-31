@@ -1,0 +1,2 @@
+(this.__LOADABLE_LOADED_CHUNKS__=this.__LOADABLE_LOADED_CHUNKS__||[]).push([[1],{48:function(t,_,n){"use strict";n.r(_);n(1),n(81);var u=n(7),e=function(){return Object(u.jsx)("div",{className:"Blue",children:"Blue"})};_.default=function(){return Object(u.jsx)(e,{})}},81:function(t,_,n){}}]);
+//# sourceMappingURL=pages-BluePage.8b335b5c.chunk.js.map

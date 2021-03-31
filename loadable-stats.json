@@ -1,0 +1,1241 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "b3a546558eae3ba645ad",
+  "publicPath": "/React-CRA_SSR-CodeSplitting/",
+  "outputPath": "/Users/wondonghwi/WebstormProjects/sever_side/build",
+  "assetsByChunkName": {
+    "main": [
+      "static/css/main.6dea0f05.chunk.css",
+      "static/js/main.af14eb20.chunk.js",
+      "static/js/main.af14eb20.chunk.js.map"
+    ],
+    "pages-BluePage": [
+      "static/css/pages-BluePage.cb3dcd40.chunk.css",
+      "static/js/pages-BluePage.8b335b5c.chunk.js",
+      "static/js/pages-BluePage.8b335b5c.chunk.js.map"
+    ],
+    "pages-RedPage": [
+      "static/css/pages-RedPage.79c7d794.chunk.css",
+      "static/js/pages-RedPage.8c94f682.chunk.js",
+      "static/js/pages-RedPage.8c94f682.chunk.js.map"
+    ],
+    "pages-UsersPage": [
+      "static/js/pages-UsersPage.00559c35.chunk.js",
+      "static/js/pages-UsersPage.00559c35.chunk.js.map"
+    ],
+    "runtime-main": [
+      "static/js/runtime-main.aa781ddd.js",
+      "static/js/runtime-main.aa781ddd.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "static/css/main.6dea0f05.chunk.css",
+      "size": 362,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/main.6dea0f05.chunk.css.map",
+      "size": 575,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-BluePage.cb3dcd40.chunk.css",
+      "size": 192,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-BluePage"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-BluePage.cb3dcd40.chunk.css.map",
+      "size": 435,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-RedPage.79c7d794.chunk.css",
+      "size": 189,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-RedPage"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-RedPage.79c7d794.chunk.css.map",
+      "size": 429,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/5.b28a0f62.chunk.js",
+      "size": 219720,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/5.b28a0f62.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/5.b28a0f62.chunk.js.LICENSE.txt",
+      "size": 1290,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/5.b28a0f62.chunk.js.map",
+      "size": 788478,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/6.18e87317.chunk.js",
+      "size": 4228,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/6.18e87317.chunk.js.map",
+      "size": 9268,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/main.af14eb20.chunk.js",
+      "size": 5771,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/main.af14eb20.chunk.js.map",
+      "size": 9300,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-BluePage.8b335b5c.chunk.js",
+      "size": 351,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-BluePage"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-BluePage.8b335b5c.chunk.js.map",
+      "size": 586,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-BluePage"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-RedPage.8c94f682.chunk.js",
+      "size": 348,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-RedPage"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-RedPage.8c94f682.chunk.js.map",
+      "size": 572,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-RedPage"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-UsersPage.00559c35.chunk.js",
+      "size": 1684,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "pages-UsersPage"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-UsersPage.00559c35.chunk.js.map",
+      "size": 5945,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "pages-UsersPage"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/runtime-main.aa781ddd.js",
+      "size": 3457,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "runtime-main"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/runtime-main.aa781ddd.js.map",
+      "size": 16337,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "runtime-main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        4,
+        5,
+        0
+      ],
+      "assets": [
+        "static/js/runtime-main.aa781ddd.js",
+        "static/js/runtime-main.aa781ddd.js.map",
+        "static/js/5.b28a0f62.chunk.js",
+        "static/js/5.b28a0f62.chunk.js.map",
+        "static/css/main.6dea0f05.chunk.css",
+        "static/js/main.af14eb20.chunk.js",
+        "static/js/main.af14eb20.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        4,
+        5,
+        0
+      ],
+      "assets": [
+        "static/js/runtime-main.aa781ddd.js",
+        "static/js/runtime-main.aa781ddd.js.map",
+        "static/js/5.b28a0f62.chunk.js",
+        "static/js/5.b28a0f62.chunk.js.map",
+        "static/css/main.6dea0f05.chunk.css",
+        "static/js/main.af14eb20.chunk.js",
+        "static/js/main.af14eb20.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-RedPage": {
+      "chunks": [
+        2
+      ],
+      "assets": [
+        "static/css/pages-RedPage.79c7d794.chunk.css",
+        "static/js/pages-RedPage.8c94f682.chunk.js",
+        "static/js/pages-RedPage.8c94f682.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-BluePage": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/css/pages-BluePage.cb3dcd40.chunk.css",
+        "static/js/pages-BluePage.8b335b5c.chunk.js",
+        "static/js/pages-BluePage.8b335b5c.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-UsersPage": {
+      "chunks": [
+        3
+      ],
+      "assets": [
+        "static/js/pages-UsersPage.00559c35.chunk.js",
+        "static/js/pages-UsersPage.00559c35.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "size": 11156,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "static/css/main.6dea0f05.chunk.css",
+        "static/js/main.af14eb20.chunk.js",
+        "static/js/main.af14eb20.chunk.js.map"
+      ],
+      "hash": "93207946bf278811b2eb",
+      "siblings": [
+        4,
+        5
+      ],
+      "parents": [],
+      "children": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 1,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 633,
+      "names": [
+        "pages-BluePage"
+      ],
+      "files": [
+        "static/css/pages-BluePage.cb3dcd40.chunk.css",
+        "static/js/pages-BluePage.8b335b5c.chunk.js",
+        "static/js/pages-BluePage.8b335b5c.chunk.js.map"
+      ],
+      "hash": "3fe323483e0e626339a1",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 2,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 619,
+      "names": [
+        "pages-RedPage"
+      ],
+      "files": [
+        "static/css/pages-RedPage.79c7d794.chunk.css",
+        "static/js/pages-RedPage.8c94f682.chunk.js",
+        "static/js/pages-RedPage.8c94f682.chunk.js.map"
+      ],
+      "hash": "9e228d364533a69a3f41",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 3,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4543,
+      "names": [
+        "pages-UsersPage"
+      ],
+      "files": [
+        "static/js/pages-UsersPage.00559c35.chunk.js",
+        "static/js/pages-UsersPage.00559c35.chunk.js.map"
+      ],
+      "hash": "435b4da1d6ae1303a4ef",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 4,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 0,
+      "names": [
+        "runtime-main"
+      ],
+      "files": [
+        "static/js/runtime-main.aa781ddd.js",
+        "static/js/runtime-main.aa781ddd.js.map"
+      ],
+      "hash": "f779eddb64893afd95c4",
+      "siblings": [
+        0,
+        5
+      ],
+      "parents": [],
+      "children": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 5,
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "reason": "split chunk (cache group: vendors)",
+      "size": 533668,
+      "names": [],
+      "files": [
+        "static/js/5.b28a0f62.chunk.js",
+        "static/js/5.b28a0f62.chunk.js.map"
+      ],
+      "hash": "8c618044d388dc4290f2",
+      "siblings": [
+        0,
+        4
+      ],
+      "parents": [],
+      "children": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 6,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 5604,
+      "names": [],
+      "files": [
+        "static/js/6.18e87317.chunk.js",
+        "static/js/6.18e87317.chunk.js.map"
+      ],
+      "hash": "2b990890617e18c48cb9",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/React-CRA_SSR-CodeSplitting/",
+      "outputPath": "/Users/wondonghwi/WebstormProjects/sever_side/build",
+      "assetsByChunkName": {
+        "HtmlWebpackPlugin_0": "__child-HtmlWebpackPlugin_0"
+      },
+      "assets": [
+        {
+          "name": "__child-HtmlWebpackPlugin_0",
+          "size": 5722,
+          "chunks": [
+            0
+          ],
+          "chunkNames": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "info": {},
+          "emitted": false
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 2016,
+          "names": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "files": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "hash": "0efd42213904ae728fc2",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/html-webpack-plugin/lib/loader.js!/Users/wondonghwi/WebstormProjects/sever_side/public/index.html",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
+              "index": 0,
+              "index2": 0,
+              "size": 2016,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/html-webpack-plugin/lib/loader.js!/Users/wondonghwi/WebstormProjects/sever_side/public/index.html",
+                  "loc": "HtmlWebpackPlugin_0"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0",
+              "request": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/html-webpack-plugin/lib/loader.js!/Users/wondonghwi/WebstormProjects/sever_side/public/index.html",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "HtmlWebpackCompiler"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/React-CRA_SSR-CodeSplitting/",
+      "outputPath": "/Users/wondonghwi/WebstormProjects/sever_side/build",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 3406,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "17d9b565dc67a9907ac3",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/runtime/api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2517,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Blue.css",
+              "issuerId": 1,
+              "issuerName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+              "issuerPath": [
+                {
+                  "id": 1,
+                  "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Blue.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Blue.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-92"
+                },
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Blue.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "type": "harmony import specifier",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "id": 1,
+              "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Blue.css",
+              "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+              "index": 0,
+              "index2": 1,
+              "size": 889,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Blue.css",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Blue.css",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??postcss!src/components/Blue.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/React-CRA_SSR-CodeSplitting/",
+      "outputPath": "/Users/wondonghwi/WebstormProjects/sever_side/build",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 3398,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "4f990c65dc16ff0eef61",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/runtime/api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2517,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Red.css",
+              "issuerId": 1,
+              "issuerName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+              "issuerPath": [
+                {
+                  "id": 1,
+                  "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Red.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Red.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-92"
+                },
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Red.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "type": "harmony import specifier",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "id": 1,
+              "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Red.css",
+              "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+              "index": 0,
+              "index2": 1,
+              "size": 881,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Red.css",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/components/Red.css",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??postcss!src/components/Red.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/React-CRA_SSR-CodeSplitting/",
+      "outputPath": "/Users/wondonghwi/WebstormProjects/sever_side/build",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 3745,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "b6a5017add372a1b13a0",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/runtime/api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2517,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/index.css",
+              "issuerId": 1,
+              "issuerName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+              "issuerPath": [
+                {
+                  "id": 1,
+                  "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/index.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/index.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-89"
+                },
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/index.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "type": "harmony import specifier",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "id": 1,
+              "identifier": "/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/index.css",
+              "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+              "index": 0,
+              "index2": 1,
+              "size": 1228,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/index.css",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!/Users/wondonghwi/WebstormProjects/sever_side/node_modules/postcss-loader/src/index.js??postcss!/Users/wondonghwi/WebstormProjects/sever_side/src/index.css",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??postcss!src/index.css"
+    }
+  ],
+  "generator": "loadable-components"
+}
