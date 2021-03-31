@@ -169,5 +169,6 @@
     "plugins": [
     "@loadable/babel-plugin"
     ]
-  }
+  },
+  "homepage": "https://wondonghwi.github.io/React-CRA_SSR-CodeSplitting/"
 }
